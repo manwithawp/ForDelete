@@ -14,7 +14,8 @@ public class Main {
 
         System.out.println("main first commit");
         System.out.println("main first commit");
-        System.out.println("6");
+        System.out.println("brangfhch 7");
+        System.out.println("7");
 
     }
 }
