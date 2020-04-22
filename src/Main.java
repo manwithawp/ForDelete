@@ -9,9 +9,6 @@
 
 public class Main {
     public static void main(String[] args) {
-
-
-
         System.out.println("main first commit");
         System.out.println("main first commit");
         System.out.println("9999");
