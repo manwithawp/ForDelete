@@ -10,6 +10,10 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("branch3 first committt");
+
+
+        System.out.println("main first commit");
+        System.out.println("main first commit");
+
     }
 }
